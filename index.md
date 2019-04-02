@@ -3,7 +3,7 @@
 	<meta charset="UTF=8">
 	<title></title>
 	</head>
-	<body>
+	<body scroll="no">
 		<canvas id="canvas" style="display:block;margin:50px auto;z-index:-1;">
 		</canvas>
 		
