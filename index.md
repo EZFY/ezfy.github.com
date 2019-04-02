@@ -4,7 +4,7 @@
 	<title></title>
 	</head>
 	<body>
-		<canvas id="canvas" style="display:block;margin:50px auto;">
+		<canvas id="canvas" style="display:block;margin:50px auto;z-index:-1;">
 		</canvas>
 		
 		<script type="text/javascript" src="digit.js"></script>
