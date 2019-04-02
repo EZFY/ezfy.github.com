@@ -1,5 +1,5 @@
-var WINDOW_WIDTH=100%;
-var WINDOW_HEIGHT=100%;
+var WINDOW_WIDTH=1024;
+var WINDOW_HEIGHT=768;
 var RADIUS=8;//半径
 var MARGIN_TOP=60;//距离画布上边的距离
 var MARGIN_LEFT=30;//距离画布左边的距离
