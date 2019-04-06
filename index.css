@@ -7,7 +7,7 @@
 					height:50px;
 					padding-left:30px;
 					border-bottom: 5px solid #F60;
-					background-image: url(../image/bg01.png);
+					background-image: url(../bg01.png);
 					background-position: center;
 					}
 				.navtion-ul-li{
@@ -22,7 +22,7 @@
 					background-color: darkseagreen;
 					margin-bottom:1px;
 					text-align: center;
-					background:url(../image/btnBg.png);
+					background:url(../btnBg.png);
 					}
 				.navtion-ul-li-a:hover{
 					color:#fff;
@@ -82,7 +82,7 @@
 		.ME{
 			width:95%;
 			height: 95%;
-			background-image:url(../image/Me.jpeg) ;
+			background-image:url(../Me.jpeg) ;
 			background-position: center;
 			background-repeat: no-repeat;
 		}
@@ -251,7 +251,7 @@
 			width: 33px;
 			height: 33px;
 			margin-right: 12px;
-			background-image: url('../image/event.png');
+			background-image: url('../event.png');
 			background-size: 100% 100%;
 			float: left;
 		}
@@ -342,7 +342,7 @@
 			height:100%;
 			width:30%;
 			float:right;
-			background-image: url(../image/icons48.png);
+			background-image: url(../icons48.png);
 			background-position: top;
 			background-repeat: no-repeat;
 			display: flex;
